@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@elysiajs/html": "^0.6.6",
+    "@elysiajs/static": "^0.6.0",
     "elysia": "^0.6.23",
     "twind": "^0.16.19"
   }

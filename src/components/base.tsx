@@ -13,8 +13,9 @@ const BaseHTML = ({ children }: elements.Children) => `
     </script>
     <script type="module" src="https://cdn.skypack.dev/twind/shim"></script>
 </head>
-
-${children}
+<body>
+    ${children}
+</body>
 </html>
 `;
 
